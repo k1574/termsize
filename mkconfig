@@ -1,0 +1,3 @@
+<$MKINCDIR/config
+PROGNAME = termsize
+CFILES = main.c
